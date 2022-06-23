@@ -1,0 +1,50 @@
+body{
+	text-align: center;
+	background-color: #EAE7D4;
+	font-family: 'Inter', sans-serif;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#main{
+	background-color: #EAE7D4;
+}
+#image {
+	max-width: 100%;
+	height: auto;
+	border: 10px;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+  background-color: #EAE7D4;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 6px 0;
+}  
+
+footer{
+	font-size: 12px;
+}
+
+#bibliografía{
+	list-style-type: none;
+}
